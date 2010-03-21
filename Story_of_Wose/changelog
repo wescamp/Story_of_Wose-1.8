@@ -1,3 +1,7 @@
+0.7.2
+ Redo animation sounds & timings for Green Mage line
+ Revert WML change in 0.7.1 (archaic but the only way that worked)
+ Fixup minor bugs
 0.7.1
  Update some archaic WML to a simpler method
  Fix translation support (thanks Wesnoth UMC dev team)
