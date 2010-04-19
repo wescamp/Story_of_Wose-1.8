@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-03-22 02:25+0100\n"
-"PO-Revision-Date: 2009-12-08 21:55+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-04-19 20:57+0100\n"
+"Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,106 +13,141 @@ msgstr ""
 
 #. [campaign]
 #: Story_of_Wose/_main.cfg:9
+#, fuzzy
 msgid "The Story of the Wose"
-msgstr ""
+msgstr "L'Histoire du Wose"
 
 #. [campaign]
 #: Story_of_Wose/_main.cfg:11
+#, fuzzy
 msgid "Somewhere on the Green Isle"
-msgstr ""
+msgstr "Quelque part sur l'île Verte"
 
 #. [campaign]
 #: Story_of_Wose/_main.cfg:12
+#, fuzzy
 msgid ""
 "*&units/woses/wose.png~TC(1,magenta)=Normal;&units/woses/wose-elder.png~TC(1,"
 "magenta)=Hard"
 msgstr ""
+"*&units/woses/wose.png~TC(1,magenta)=Normal;&units/woses/wose-elder.png~TC(1,"
+"magenta)=Difficile"
 
 #. [editor_group]: id=SoW
 #: Story_of_Wose/_main.cfg:38
+#, fuzzy
 msgid "Story of Wose"
-msgstr ""
+msgstr "Histoire de Wose"
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:12
+#, fuzzy
 msgid ""
 "Today I want to tell you another story, a mere footnote in the history books "
 "if it is even remembered at all."
 msgstr ""
+"Aujourd'hui, je veux vous raconter une autre histoire, une simple anecdote "
+"dans les livres d'histoire, elle est encore inscrite dans la mémoire de tous."
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:15
+#, fuzzy
 msgid ""
 "But as with all such footnotes, the resulting effect on this history of "
 "Wesnoth is very large. Didn't they teach you the butterfly effect in school? "
 "No?"
 msgstr ""
+"Mais comme avec toutes les anecdotes, le résultat sur l’histoire de Wesnoth "
+"fut très grand. N'avez vous pas appris l'effet papillon à l'école ? Non ?"
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:18
+#, fuzzy
 msgid ""
 "Somewhere in the green isle (history has forgotten exactly where), a strange "
 "order of Magi had set up operations in some forest. Wood was needed for the "
 "construction of a nearby town, and so a team was sent from Clearwater Port..."
 msgstr ""
+"Quelque part dans l'île verte (l'histoire a oublié exactement où), un ordre "
+"étrange de mage s’affairé dans la forêt. Le bois était nécessaire pour la "
+"construction d'une ville voisine, et  une équipe a été envoyée par le port "
+"de Clearwater."
 
 #. [object]: id=heals_object
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:122
+#, fuzzy
 msgid "Potion of Healing"
-msgstr ""
+msgstr "Potion de guérison"
 
 #. [object]: id=heals_object
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:124
+#, fuzzy
 msgid "This unit is given the power to heal its friends."
-msgstr ""
+msgstr "Cette unité a le pouvoir de guérir ses amis."
 
 #. [object]: id=heals_object
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:126
+#, fuzzy
 msgid "This unit is given the power to heal itself and its friends."
-msgstr ""
+msgstr "Cette unité a le pouvoir de se guérir lui-même et ses amis."
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:161
+#, fuzzy
 msgid "What were you expecting, the Ruby of Fire?"
-msgstr ""
+msgstr "Qu'attendiez-vous, le Rubis de Feu ?"
 
 #. [message]: id=Tinry
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:172
+#, fuzzy
 msgid ""
 "They've come. Humans from Clearwater Port. They've come to chop down our "
 "forest."
 msgstr ""
+"Ils sont venus. Les hommes du port de Clearwater. Ils sont venus pour "
+"abattre notre forêt."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:176
+#, fuzzy
 msgid "[way too loud] Must they really?"
-msgstr ""
+msgstr "[De façon tonitruante] Doivent-ils vraiment ?"
 
 #. [message]: id=Gwoddyn
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:180
+#, fuzzy
 msgid "Yes, we must. We have houses and docks to build."
-msgstr ""
+msgstr "Oui, nous le devons. Nous avons des maisons et des quais à construire."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:184
+#, fuzzy
 msgid ""
 "What? Destroy our beautiful forest for your stupid houses! This will not "
 "stand."
 msgstr ""
+"Quoi ? Détruire notre belle forêt pour vos stupides maisons ! Cela ne se "
+"fera pas."
 
 #. [message]: id=Tinry
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:188
+#, fuzzy
 msgid ""
 "[whispers] Perhaps you could conjer up a distraction from the mud like you "
 "did for the harvest festival."
 msgstr ""
+"[Murmure] Peut-être que vous pourriez avec un tour de passe passe créer des "
+"clones de golem comme vous l'avez fait pour la fête de la moisson."
 
 #. [part]
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:12
+#, fuzzy
 msgid ""
 "One evening shortly thereafter, Londerleona climbed onto the high plain of "
 "pinnacles to observe the stars."
 msgstr ""
+"Un soir peu de temps après, Londerleona grimpa sur le point le plus haut de "
+"la plaine pour observer les étoiles."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:61
@@ -122,8 +157,9 @@ msgstr ""
 
 #. [message]: type=Sky Drake
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:66
+#, fuzzy
 msgid "I spy humans."
-msgstr ""
+msgstr "J’espionne les humains."
 
 #. [message]: type=Drake Flare
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:70
@@ -152,8 +188,9 @@ msgstr ""
 
 #. [unit]: type=Dark Adept, id=Begger
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:49
+#, fuzzy
 msgid "Begger"
-msgstr ""
+msgstr "Begger"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:53
@@ -185,18 +222,21 @@ msgstr ""
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:83
+#, fuzzy
 msgid "Oh, he dropped this."
-msgstr ""
+msgstr "Oh, il laisse tomber."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Begger.cfg:87
+#, fuzzy
 msgid "Ooh. A scroll."
-msgstr ""
+msgstr "Ooh. Un défilement."
 
 #. [scenario]: id=3_Move
 #: Story_of_Wose/scenarios/3_Move.cfg:5
+#, fuzzy
 msgid "The Trees Move"
-msgstr ""
+msgstr "Les Arbres Bouge"
 
 #. [part]
 #: Story_of_Wose/scenarios/3_Move.cfg:12
@@ -226,13 +266,15 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/3_Move.cfg:82
+#, fuzzy
 msgid "Child, do not despair. There is yet hope."
-msgstr ""
+msgstr "Enfants, ne désespérez pas. Il ya encore de l'espoir."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:86
+#, fuzzy
 msgid "Who spoke?"
-msgstr ""
+msgstr "Qui a parlé ?"
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/3_Move.cfg:91
@@ -244,8 +286,9 @@ msgstr ""
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:95
+#, fuzzy
 msgid "I'll try, sir."
-msgstr ""
+msgstr "Je vais essayer, monsieur."
 
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:136
@@ -254,13 +297,15 @@ msgstr ""
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:152
+#, fuzzy
 msgid "What was that?"
-msgstr ""
+msgstr "Qu'est-ce que c'était ?"
 
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:196
+#, fuzzy
 msgid "The temple!"
-msgstr ""
+msgstr "Le temple !"
 
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:203
@@ -271,8 +316,9 @@ msgstr ""
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:218
+#, fuzzy
 msgid "Come on, into the catacombs"
-msgstr ""
+msgstr "Allez, dans les catacombes"
 
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:222
@@ -281,15 +327,17 @@ msgstr ""
 
 #. [side]: type=Demilich, id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:58
+#, fuzzy
 msgid "Lich-Lord Lenvan"
-msgstr ""
+msgstr "Seigneur-liche Lenvan"
 
 #. [unit]: type=Demilich, id=Lich-Lord Caror
 #. [side]: type=Demilich, id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:65
 #: Story_of_Wose/scenarios/5a_Arena.cfg:101
+#, fuzzy
 msgid "Lich-Lord Caror"
-msgstr ""
+msgstr "Seigneur-liche Caror"
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:93
@@ -348,8 +396,9 @@ msgstr ""
 
 #. [message]: role=notify1
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:161
+#, fuzzy
 msgid "We're all gonna die."
-msgstr ""
+msgstr "Nous allons tous mourir."
 
 #. [message]: id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:165
@@ -375,8 +424,9 @@ msgstr ""
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:198
+#, fuzzy
 msgid "That sounds terrible."
-msgstr ""
+msgstr "Cela semble terrible."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:290
@@ -390,8 +440,9 @@ msgstr ""
 
 #. [message]: type=Orcish Warrior
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:333
+#, fuzzy
 msgid "Look out! The ceiling is collapsing."
-msgstr ""
+msgstr "Attention! Le plafond s'effondre."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:337
@@ -407,8 +458,9 @@ msgstr ""
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:370
+#, fuzzy
 msgid "You dare attack me!"
-msgstr ""
+msgstr "Vous osez m'attaquer !"
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:385
@@ -417,18 +469,21 @@ msgstr ""
 
 #. [scenario]: id=5_Tunnel
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:5
+#, fuzzy
 msgid "The Tunnel"
-msgstr ""
+msgstr "Le tunnel"
 
 #. [side]: type=Undead Avatar, id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:166
+#, fuzzy
 msgid "Historian of Wesnoth"
-msgstr ""
+msgstr "Historien de Wesnoth"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:318
+#, fuzzy
 msgid "I think we are safe now."
-msgstr ""
+msgstr "Je pense que nous sommes en sécurité maintenant."
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:370
@@ -462,8 +517,9 @@ msgstr ""
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:399
+#, fuzzy
 msgid "Provides a nice ambience, don't you think?"
-msgstr ""
+msgstr "Fournit une ambiance sympathique, vous ne pensez pas ?"
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:411
@@ -474,8 +530,9 @@ msgstr ""
 #. [unit]: type=Necromancer, id=Oracle
 #: Story_of_Wose/scenarios/5a_Arena.cfg:36
 #: Story_of_Wose/scenarios/5a_Arena.cfg:384
+#, fuzzy
 msgid "Oracle"
-msgstr ""
+msgstr "Oracle"
 
 #. [message]: id=Oracle
 #: Story_of_Wose/scenarios/5a_Arena.cfg:48
@@ -486,8 +543,9 @@ msgstr ""
 
 #. [side]: type=Wood Mage, id=Londerleona
 #: Story_of_Wose/scenarios/5a_Arena.cfg:63 Story_of_Wose/utils.cfg:52
+#, fuzzy
 msgid "Londerleona"
-msgstr ""
+msgstr "Londerleona"
 
 #. [side]: type=Ancient Lich, id=Lich-Lord Jevyan
 #: Story_of_Wose/scenarios/5a_Arena.cfg:77
@@ -528,8 +586,9 @@ msgstr ""
 
 #. [message]: id=Lich-Lord Caror
 #: Story_of_Wose/scenarios/5a_Arena.cfg:206
+#, fuzzy
 msgid "No, its Mine!"
-msgstr ""
+msgstr "Non, sa mine !"
 
 #. [message]: id=Lich-Lord Jevyan
 #: Story_of_Wose/scenarios/5a_Arena.cfg:210
@@ -568,23 +627,27 @@ msgstr ""
 
 #. [scenario]: id=Epilog
 #: Story_of_Wose/scenarios/Epilog.cfg:5
+#, fuzzy
 msgid "Epilogue"
-msgstr ""
+msgstr "Épilogue"
 
 #. [side]: type=Elvish Enchantress, id=Galatiel
 #: Story_of_Wose/scenarios/Epilog.cfg:18
+#, fuzzy
 msgid "Galatiel"
-msgstr ""
+msgstr "Galatiel"
 
 #. [unit]: type=Elvish Fighter, id=Telcontar
 #: Story_of_Wose/scenarios/Epilog.cfg:28
+#, fuzzy
 msgid "Telcontar"
-msgstr ""
+msgstr "Telcontar"
 
 #. [unit]: type=Elvish Captain, id=Isar
 #: Story_of_Wose/scenarios/Epilog.cfg:59
+#, fuzzy
 msgid "Isar"
-msgstr ""
+msgstr "Isar"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/Epilog.cfg:80
@@ -633,18 +696,21 @@ msgstr ""
 
 #. [terrain_type]: id=SoW_temple_village
 #: Story_of_Wose/terrain.cfg:7
+#, fuzzy
 msgid "Village"
-msgstr ""
+msgstr "Village"
 
 #. [terrain_type]: id=cave
 #: Story_of_Wose/terrain.cfg:39
+#, fuzzy
 msgid "Cave"
-msgstr ""
+msgstr "Caverne"
 
 #. [unit_type]: id=Demilich, race=undead
 #: Story_of_Wose/units/Demilich.cfg:5
+#, fuzzy
 msgid "Demilich"
-msgstr ""
+msgstr "Demilich"
 
 #. [unit_type]: id=Demilich, race=undead
 #: Story_of_Wose/units/Demilich.cfg:30
@@ -656,8 +722,9 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: Story_of_Wose/units/Demilich.cfg:51
+#, fuzzy
 msgid "touch"
-msgstr ""
+msgstr "toucher"
 
 #. [attack]: type=cold
 #: Story_of_Wose/units/Demilich.cfg:63
@@ -666,13 +733,15 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: Story_of_Wose/units/Demilich.cfg:75
+#, fuzzy
 msgid "shadow wave"
-msgstr ""
+msgstr "onde obscure"
 
 #. [unit_type]: id=Green Mage, race=human
 #: Story_of_Wose/units/Green-Mage.cfg:5
+#, fuzzy
 msgid "Green Mage"
-msgstr ""
+msgstr "Magicienne Arboricole"
 
 #. [unit_type]: id=Green Mage, race=human
 #: Story_of_Wose/units/Green-Mage.cfg:22
@@ -685,19 +754,22 @@ msgstr ""
 #. [attack]: type=impact
 #: Story_of_Wose/units/Life-Mage.cfg:43 Story_of_Wose/units/Wood-Mage.cfg:37
 #: Story_of_Wose/units/Green-Mage.cfg:40
+#, fuzzy
 msgid "staff"
-msgstr ""
+msgstr "bâton"
 
 #. [attack]: type=cold
 #: Story_of_Wose/units/Life-Mage.cfg:55 Story_of_Wose/units/Wood-Mage.cfg:49
 #: Story_of_Wose/units/Green-Mage.cfg:52
+#, fuzzy
 msgid "missile"
-msgstr ""
+msgstr "projectile magique"
 
 #. [attack]: type=arcane
 #: Story_of_Wose/units/Life-Mage.cfg:67 Story_of_Wose/units/Green-Mage.cfg:64
+#, fuzzy
 msgid "lightbeam"
-msgstr ""
+msgstr "rayon de lumière"
 
 #. [unit_type]: id=Life Mage, race=human
 #: Story_of_Wose/units/Life-Mage.cfg:5
@@ -715,8 +787,9 @@ msgstr ""
 #. [race]: id=pixie
 #. [unit_type]: id=Pixie, race=pixie
 #: Story_of_Wose/units/Pixie.cfg:5 Story_of_Wose/units/Pixie.cfg:13
+#, fuzzy
 msgid "Pixie"
-msgstr ""
+msgstr "Fée"
 
 #. [race]: id=pixie
 #: Story_of_Wose/units/Pixie.cfg:6
@@ -733,8 +806,9 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Story_of_Wose/units/Pixie.cfg:48
+#, fuzzy
 msgid "faerie touch"
-msgstr ""
+msgstr "doigt de fée"
 
 #. [unit_type]: id=Undead Avatar
 #: Story_of_Wose/units/Undead_Avatar.cfg:11
@@ -750,8 +824,9 @@ msgstr ""
 
 #. [unit_type]: id=Wood Mage, race=human
 #: Story_of_Wose/units/Wood-Mage.cfg:5
+#, fuzzy
 msgid "Wood Mage"
-msgstr ""
+msgstr "Mage des bois"
 
 #. [unit_type]: id=Wood Mage, race=human
 #: Story_of_Wose/units/Wood-Mage.cfg:19
@@ -770,13 +845,15 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Story_of_Wose/units/Wose_Shaman.cfg:36
+#, fuzzy
 msgid "crush"
-msgstr ""
+msgstr "écrasement"
 
 #. [attack]: type=impact
 #: Story_of_Wose/units/Wose_Shaman.cfg:45
+#, fuzzy
 msgid "entangle"
-msgstr ""
+msgstr "enchevêtrement"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/utils.cfg:11
@@ -790,8 +867,9 @@ msgstr ""
 
 #. [trait]: id=oak
 #: Story_of_Wose/wtraits.cfg:6
+#, fuzzy
 msgid "oak"
-msgstr ""
+msgstr "chêne"
 
 #. [trait]: id=oak
 #: Story_of_Wose/wtraits.cfg:7
@@ -800,8 +878,9 @@ msgstr ""
 
 #. [trait]: id=elm
 #: Story_of_Wose/wtraits.cfg:20
+#, fuzzy
 msgid "elm"
-msgstr ""
+msgstr "orme"
 
 #. [trait]: id=elm
 #: Story_of_Wose/wtraits.cfg:21
@@ -810,8 +889,9 @@ msgstr ""
 
 #. [trait]: id=pine
 #: Story_of_Wose/wtraits.cfg:34
+#, fuzzy
 msgid "pine"
-msgstr ""
+msgstr "Pin"
 
 #. [trait]: id=pine
 #: Story_of_Wose/wtraits.cfg:35
@@ -825,8 +905,9 @@ msgstr ""
 
 #. [trait]: id=willow
 #: Story_of_Wose/wtraits.cfg:50
+#, fuzzy
 msgid "fast in water, +10% fire damage"
-msgstr ""
+msgstr "rapide dans l'eau, +10% dégâts de feu"
 
 #. [trait]: id=redwood
 #: Story_of_Wose/wtraits.cfg:71
@@ -840,10 +921,12 @@ msgstr ""
 
 #. [race]: id=wose_alt
 #: Story_of_Wose/wtraits.cfg:84
+#, fuzzy
 msgid "Wose"
-msgstr ""
+msgstr "Wose"
 
 #. [race]: id=wose_alt
 #: Story_of_Wose/wtraits.cfg:85
+#, fuzzy
 msgid "Woses"
-msgstr ""
+msgstr "Woses"
