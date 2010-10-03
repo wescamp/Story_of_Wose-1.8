@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-03-22 02:25+0100\n"
+"POT-Creation-Date: 2010-10-03 13:08+0200\n"
 "PO-Revision-Date: 2010-08-04 21:11+0900\n"
 "Last-Translator: clearpotion <clearpotion+fantasy@gmail.com>\n"
 "Language-Team: none\n"
@@ -801,20 +801,20 @@ msgstr ""
 "豊富で、さらに捕えにくいのです。"
 
 #. [attack]: type=impact
-#: Story_of_Wose/units/Life-Mage.cfg:43 Story_of_Wose/units/Wood-Mage.cfg:37
-#: Story_of_Wose/units/Green-Mage.cfg:40
+#: Story_of_Wose/units/Life-Mage.cfg:45 Story_of_Wose/units/Wood-Mage.cfg:39
+#: Story_of_Wose/units/Green-Mage.cfg:42
 msgid "staff"
 msgstr "杖"
 
 # マジックミサイルだろうな
 #. [attack]: type=cold
-#: Story_of_Wose/units/Life-Mage.cfg:55 Story_of_Wose/units/Wood-Mage.cfg:49
-#: Story_of_Wose/units/Green-Mage.cfg:52
+#: Story_of_Wose/units/Life-Mage.cfg:57 Story_of_Wose/units/Wood-Mage.cfg:51
+#: Story_of_Wose/units/Green-Mage.cfg:54
 msgid "missile"
 msgstr "ミサイル"
 
 #. [attack]: type=arcane
-#: Story_of_Wose/units/Life-Mage.cfg:67 Story_of_Wose/units/Green-Mage.cfg:64
+#: Story_of_Wose/units/Life-Mage.cfg:69 Story_of_Wose/units/Green-Mage.cfg:66
 msgid "lightbeam"
 msgstr "光線"
 
