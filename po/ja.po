@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 13:08+0200\n"
+"POT-Creation-Date: 2010-10-16 17:06+0200\n"
 "PO-Revision-Date: 2010-08-04 21:11+0900\n"
 "Last-Translator: clearpotion <clearpotion+fantasy@gmail.com>\n"
 "Language-Team: none\n"
@@ -496,22 +496,22 @@ msgid "The Tunnel"
 msgstr "The Tunnel"
 
 #. [side]: type=Undead Avatar, id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:166
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:185
 msgid "Historian of Wesnoth"
 msgstr "Wesnoth の歴史家"
 
 #. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:318
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:363
 msgid "I think we are safe now."
 msgstr "どうやらひとまず安心のようね。"
 
 #. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:370
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:415
 msgid "Hello, and welcome to my library."
 msgstr "いらっしゃい、私の図書館にようこそ。"
 
 #. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:374
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:419
 msgid ""
 "Allow me to introduce myself. I am the historian of Wesnoth. All that "
 "happens, I see and record. It is all here, everything of note."
@@ -520,7 +520,7 @@ msgstr ""
 "し、記録しています。そのすべてのノートはここにあります。"
 
 #. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:378
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:423
 msgid ""
 "Right now, the world is young, and written history is not very long. As time "
 "passes my library will grow larger. At the last, I expect to have a few "
@@ -531,25 +531,25 @@ msgstr ""
 "とその目録すべてを収容するのを見込んでいます。"
 
 #. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:382
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:427
 msgid "Feel free to look around. Read any book. Just don't wreck things."
 msgstr ""
 "お気軽に見て回って下さい。 どんな本でも読んでいいですよ。 ただ破損させないで"
 "下さい。"
 
 #. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:387
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:432
 msgid "To read a book, play another campaign."
 msgstr "本を読むためには、もう１つのキャンペーンをプレーしてくださいね。"
 
 #. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:399
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:444
 msgid "Provides a nice ambience, don't you think?"
 msgstr "すてきな雰囲気をかもし出している。そう思いませんか？"
 
 # クリスタルがporterになっている
 #. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:411
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:456
 msgid "Now, if you had teleport ability, that would be a window."
 msgstr "今、もしあなたに瞬間移動能力があるなら、それが出入り口になるでしょう。"
 
@@ -749,6 +749,16 @@ msgstr "村"
 #: Story_of_Wose/terrain.cfg:39
 msgid "Cave"
 msgstr "洞窟"
+
+#. [terrain_type]: id=cave
+#: Story_of_Wose/terrain.cfg:68
+msgid "Cave Shadow"
+msgstr ""
+
+#. [terrain_type]: id=cavewall
+#: Story_of_Wose/terrain.cfg:103
+msgid "Cavewall Shadowed"
+msgstr ""
 
 #. [unit_type]: id=Demilich, race=undead
 #: Story_of_Wose/units/Demilich.cfg:5
